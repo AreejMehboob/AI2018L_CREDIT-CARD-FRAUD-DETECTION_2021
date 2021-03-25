@@ -11,7 +11,7 @@ import seaborn as sns
 # /-----------------------------------------------------Data Analysis-------------------------------------------------------------------/
 
 # /------/
-data = pd.read_csv('creditcard.csv')
+data = pd.read_csv('https://www.kaggle.com/mlg-ulb/creditcardfraud?select=creditcard.csv')
 
 # /-----/
 print(data)
