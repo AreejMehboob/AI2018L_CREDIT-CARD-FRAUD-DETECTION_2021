@@ -1,6 +1,7 @@
 # AI2018L_CREDIT-CARD-FRAUD-DETECTION_2021
 Credit Card Fraud Detection is an Artificial Intelligence Project to detect fraudulent or non-fraudulent credit card transactions by applying suitable AI / ML Algorithms on Kaggle Credit Card Fraud Detection Dataset.
 
+You can check credit card csv file from following link bcz github doesn't allow here to load any file greater than 25MB. But in my laptop,it was downloaded in my project folder that''s why i have used directly pd.read_csv('creditcard.csv'):
 Link to Dataset: https://www.kaggle.com/mlg-ulb/creditcardfraud
 
 Environment used for deployment: Flask
